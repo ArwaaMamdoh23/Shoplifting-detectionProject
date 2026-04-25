@@ -44,8 +44,10 @@ Surveillance video datasets are often inconsistent in resolution, frame rate, an
 A fully cleaned and standardized video dataset ready for training a shoplifting detection model.
 
 
-## Author
-- Arwaa Mamdoh
-
 ## Note
 This project focuses on data engineering and preprocessing for video-based behavior recognition systems.
+
+
+
+## Author
+Arwaa Mamdoh
